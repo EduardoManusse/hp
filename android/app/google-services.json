@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986021506489",
+    "project_id": "loginsistema-3670f",
+    "storage_bucket": "loginsistema-3670f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986021506489:android:fec43b9e670ec2ea69da68",
+        "android_client_info": {
+          "package_name": "com.eduardo.login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986021506489-uhrpa2jogu8t86kok8500gq8pca2o75k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwtLATfH130Z74Iqt3Z2NNeAdG31UHuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986021506489-uhrpa2jogu8t86kok8500gq8pca2o75k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
